@@ -40,6 +40,7 @@ main {
   color: #aaa;
   top: 54.5%;
   height: 27%;
+  left: 35%;
   font-size: clamp(8px, 5vw, 25px);
 }
 
@@ -90,6 +91,6 @@ main {
 }
 
 .button:active {
-  box-shadow: inset -4px -4px 0 #222;
+  box-shadow: inset -4px 4px 0 #222;
   font-size: 0.9rem;
 }
